@@ -17,7 +17,7 @@ set -euo pipefail
 # USERNAME. DO NOT CHANGE THE REPOSITORY NAME (voting-alb).
 ##############################################################################
 ##############################################################################
-REPO_URL="https://github.com/YOUR_GITHUB_USERNAME/voting-alb.git"
+REPO_URL="https://github.com/ranayum/voting-alb.git"
 
 APP_DIR=/home/ec2-user/voting-alb
 
